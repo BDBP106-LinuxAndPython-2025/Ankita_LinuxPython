@@ -1,0 +1,18 @@
+.:
+total 60
+-rw-rw-r-- 1 ankitabose ankitabose   54 Aug 29 17:36 filesnotpresent
+drwxrwxr-x 2 ankitabose ankitabose 4096 Aug 29 17:31 home
+drwxrwxr-x 2 ankitabose ankitabose 4096 Aug 29 17:31 lab9
+-rw-rw-r-- 1 ankitabose ankitabose  155 Aug 29 17:36 listoffiles
+-rw-rw-r-- 1 ankitabose ankitabose    8 Aug 28 16:32 nums.txt
+-rw-rw-r-- 1 ankitabose ankitabose    0 Aug 29 17:36 presentfiles
+-rwxrw-r-- 1 ankitabose ankitabose   97 Aug 28 15:42 question1.sh
+-rwxrw-r-- 1 ankitabose ankitabose  200 Aug 28 16:57 question2.sh
+-rwxrw-r-- 1 ankitabose ankitabose  231 Aug 28 15:59 question3.sh
+-rwxrw-r-- 1 ankitabose ankitabose  358 Aug 28 16:40 question4.sh
+-rw-rw-r-- 1 ankitabose ankitabose  487 Aug 28 17:34 question5.sh
+-rw-rw-r-- 1 ankitabose ankitabose  234 Aug 28 17:41 question6.sh
+-rwxrw-r-- 1 ankitabose ankitabose  575 Aug 29 17:23 question7.sh
+-rwxrw-r-- 1 ankitabose ankitabose  525 Aug 29 17:30 Question7.sh
+-rwxrw-r-- 1 ankitabose ankitabose  603 Aug 29 17:35 question8.sh
+drwxrwxr-x 2 ankitabose ankitabose 4096 Aug 29 16:15 sed_ex
